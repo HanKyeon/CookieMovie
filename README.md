@@ -48,3 +48,7 @@ CookieMovie.pdf를 참고해주세요.
   ![](./forREADME/django3.png)
 - 기능4 : 영화 랭킹 알고리즘
   ![](./forREADME/django4.png)
+
+## 유지 보수 관련
+
+- 지속적으로 private repo에서 업데이트 중.

@@ -1,0 +1,7 @@
+
+static / media 관련 정리가 필요할 듯 싶어서 정리.
+
+static image url 같은 경우는 http://서버/static/앱이름/파일이름.확장자 순으로 정리됨.
+앱 내 static이 아니라면 앱이름이 없겠지?
+
+ImageField() FileField를 상속받는 서브 클래스.

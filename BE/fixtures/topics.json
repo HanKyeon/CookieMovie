@@ -1,0 +1,107 @@
+[
+  {
+    "model": "community.topic",
+    "pk": "1",
+    "fields": {
+      "content": "음악이 좋은"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "2",
+    "fields": {
+      "content": "영상이 아름다운"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "3",
+    "fields": {
+      "content": "흡입력이 강한"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "4",
+    "fields": {
+      "content": "액션이 통쾌한"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "5",
+    "fields": {
+      "content": "여운이 남는"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "6",
+    "fields": {
+      "content": "인생 최고의"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "7",
+    "fields": {
+      "content": "연기력이 뛰어난"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "8",
+    "fields": {
+      "content": "스토리가 흥미로운"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "9",
+    "fields": {
+      "content": "연출이 화려한"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "10",
+    "fields": {
+      "content": "가슴 설레는"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "11",
+    "fields": {
+      "content": "눈물이 흐르는"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "12",
+    "fields": {
+      "content": "손에 땀을 쥐게 하는"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "13",
+    "fields": {
+      "content": "가족과 보기 좋은"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "14",
+    "fields": {
+      "content": "연인과 함께하기 좋은"
+    }
+  },
+  {
+    "model": "community.topic",
+    "pk": "15",
+    "fields": {
+      "content": "혼자 보기 좋은"
+    }
+  }
+]

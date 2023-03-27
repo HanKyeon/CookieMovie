@@ -4,7 +4,7 @@
 
 ## 참고
 
-CookieMovie.pdf를 참고해주세요.
+[CookieMovie ](https://github.com/HanKyeon/CookieMovie/blob/master/CookieMovie.pdf)를 참고해주세요.
 
 ## 기술 스택
 
